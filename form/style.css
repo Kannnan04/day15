@@ -1,0 +1,50 @@
+/* form */
+
+form{
+  text-align: center;
+  margin-top: 20px;
+}
+
+#description{
+    font-size: smaller;
+}
+
+.radio{
+    display: flex;
+    padding-left: 650px;
+}
+
+/* button*/
+#submit{
+    margin-top: 20px;
+    width: 80px;
+    border-radius: 10px;
+    font-style: italic;
+    
+
+}
+button:hover{
+    background-color: wheat;
+}
+
+/* table*/
+
+
+th{
+    padding: 10px;
+}
+
+table{
+    margin-top: 50px;
+    margin-inline-start: 550px;
+    border: 2px solid;
+    
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+  }
+  table td,
+  table th {
+    border: solid 1px black;
+  }
